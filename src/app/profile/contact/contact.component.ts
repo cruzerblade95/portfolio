@@ -18,7 +18,7 @@ export class ContactComponent implements OnInit {
      }
 
 
-  // snotifyConfig = environment.snotifyConfig;
+   snotifyConfig = environment.snotifyConfig;
   // model: any = {};
 
   // constructor(
